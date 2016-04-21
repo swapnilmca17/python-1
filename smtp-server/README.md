@@ -14,9 +14,7 @@
 <h5 id = 'c1'>1. 编程环境</h5>
 
 * 操作系统 : Mac OS X 10.10.5
-
 * Python版本 : 2.7.10
-
 * 涉及的Python标准库
   - smtplib
   - email
