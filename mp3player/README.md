@@ -8,17 +8,15 @@
 1. [编程环境](#c1)
 2. [项目说明](#c2)
 3. [使用说明](#c3)
+4. [数据库设置](#c4)
 
 --------------
 
 <h5 id = 'c1'>1. 编程环境</h5>
 
 * 操作系统 : Mac OS X 10.10.5
-
 * Python版本 : 2.7.10
-
 * 数据库 : MySQL
-
 * 涉及的Python标准库
   - os
   - re
@@ -43,3 +41,36 @@
 <h5 id = 'c3'>3. 使用说明</h5>
 
 在终端运行main.py即可
+
+<h5 id = 'c4'>4. 数据库设置</h5>
+
+1. 创建一个数据库pydb(名称可自定义)
+
+2. 在Pydb创建一个名为song的table
+
+<pre><code>
++----------------+
+| Tables_in_pydb |
++----------------+
+| song           |
++----------------+
+</code>
+</pre>
+
+3. table的结构
+
+* song
+
+<code>desc song</code>
+<pre><code>
+mysql> desc song;
++--------+-------------+------+-----+---------+-------+
+| Field  | Type        | Null | Key | Default | Extra |
++--------+-------------+------+-----+---------+-------+
+| id     | int(11)     | NO   | PRI | NULL    |       |
+| name   | varchar(20) | YES  |     | NULL    |       |
+| singer | varchar(20) | YES  |     | NULL    |       |
+| path   | varchar(60) | YES  |     | NULL    |       |
++--------+-------------+------+-----+---------+-------+
+</code>
+</pre>
