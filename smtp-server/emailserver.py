@@ -7,9 +7,6 @@
 __author__ = 'AJ Kipper'
 
 import smtplib
-import os
-import time
-import threading
 from email.mime.text import MIMEText
 
 
