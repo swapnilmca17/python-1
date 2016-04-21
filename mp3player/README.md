@@ -1,38 +1,45 @@
-#####Select your language.
-
--------------
-
-* [English Version](#EV)
-
-* [Chinese Version](#CV)
-
 --------------
-
-<h4 id = 'EV'>README</h4>
-
---------------
-
-**Programming environment for this project**
-
-* operating system : Mac OS X 10.10.5
-
-* Python Version : 2.7.9
-
-**Basic introduction**
-
-
-
---------------
-
 <h4 id = 'CV'>自述</h4>
 
 --------------
 
-**这个项目的编程环境**
+######目录
+
+1. [编程环境](#c1)
+2. [项目说明](#c2)
+3. [使用说明](#c3)
+
+--------------
+
+<h5 id = 'c1'>1. 编程环境</h5>
 
 * 操作系统 : Mac OS X 10.10.5
 
-* Python版本 : 2.7.9
+* Python版本 : 2.7.10
 
-**基本介绍**
+* 数据库 : MySQL
 
+* 涉及的Python标准库
+  - os
+  - re
+  - sys
+* 涉及的Python第三方库
+  - MySQLdb
+  - psutil
+
+<h5 id = 'c2'>2. 项目说明</h5>
+
+一个Mp3播放器(仅逻辑实现)
+
+---------------
+
+1. 歌曲本身存在硬盘，路径存储在MySQL数据库
+
+2. 终端界面实现控制歌曲的播放，暂定，继续操作
+
+3. 终端界面实现歌曲在数据库的存储，删除操作
+
+---------------
+<h5 id = 'c3'>3. 使用说明</h5>
+
+在终端运行main.py即可
