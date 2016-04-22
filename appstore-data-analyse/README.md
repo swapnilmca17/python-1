@@ -20,9 +20,9 @@
 * 涉及的Python标准库
   - json
   - sys
+  - \_\_future\_\_
 * 涉及的Python第三方库
   - pandas
-  - \_\_future\_\_
   - matplotlib
 
 ---------------
