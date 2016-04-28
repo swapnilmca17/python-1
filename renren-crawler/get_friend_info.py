@@ -36,8 +36,7 @@ class FriendInfo(object):
 			for i in re.findall(r'alt=".*?"',str(i.a)):
 				for name in re.findall(r'"[^renren].*?"',i):
 					if name not in self.name_list:
-						#self.name_list.append(name[1:len(name)-1])
-						self.name_list.append(name)
+						self.name_list.append(name[1:len(name)-1])
 					else:
 						pass
 		return self.name_list
