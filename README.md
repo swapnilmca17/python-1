@@ -10,7 +10,7 @@
 2. [Mp3播放控制 -- mp3player](#c2)
 3. [AppStore数据分析 -- appstore-data-analyse](#c3)
 4. [C\S模式聊天室 -- chatting](#c4)
-5. [模拟登录人人网 -- simulate-login](#c5)
+5. [人人网爬虫 -- renren-crawler](#c5)
 
 -------------------
 
@@ -71,8 +71,16 @@
 
 -------------------
 
-<h5 id = 'c5'>5. 模拟登录人人网 -- simulate-login</h5>
+<h5 id = 'c5'>5. 人人网爬虫 -- renren-crawler</h5>
 
-模拟浏览器成功登录手机人人网。
+人人网爬虫项目。
 
-直接访问[https://github.com/AJKipper/PythonProject/tree/master/simulate-login](https://github.com/AJKipper/PythonProject/tree/master/simulate-login)
+---
+
+抓取内容	
+
+* 我的好友列表所有页面(一个页面只展示5个好友信息)
+* 好友的基本信息(人人网id，名字，主页链接)
+* 所有好友主页的页面
+
+直接访问[https://github.com/AJKipper/PythonProject/tree/master/renren-crawler](https://github.com/AJKipper/PythonProject/tree/master/renren-crawler)
