@@ -27,8 +27,8 @@ sys.setdefaultencoding("utf8")
 
 class test(object):
 	def __init__(self):
-		self.username = '517450974@qq.com'
-		self.password = '19930518'
+		self.username = 'You account'
+		self.password = 'You password'
 		self.userlogin = Login()
 		self.userlogin.set_login_info(self.username,self.password)
 		self.login_url = 'http://3g.renren.com/friendlist.do?&sid=PwyGFaedzB81fFMISfrmve&kxlp77&htf=3'
