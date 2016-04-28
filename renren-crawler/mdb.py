@@ -15,7 +15,7 @@ class Engine(object):
 
 	def connect(self):
 		#连接数据库，参数分别是数据库地址，用户名，密码，数据库名字
-		con = mdb.connect("localhost","root","ha","crawler",charset='utf8')
+		con = mdb.connect("localhost","root","ha","crawler")
 		cur = con.cursor()
 		self.con = con
 		return cur
@@ -30,16 +30,15 @@ class Engine(object):
 	def insert(self,info_list):
 		cur = self.connect()
 		#获取一个列表参数，将字段信息插入
-		id_count = info_list[0]
+		user_id = info_list[0]
 		account_id = info_list[1]
-		user_name = ' '
+		user_name = info_list[2]
 		profile_url = info_list[3]
-		#order = 'insert into friends_info values(' + str(id_count) + ',' + str(account_id) + ',' + user_name + ',' + profile_url + ')'
-		#order = "insert into user(id_count,account_id,user_name,profile_url) values(%d,%d,%s,%s)"
-		cur.execute("insert into friends_info values (%d,%d,%s,%s);" % (id_count,account_id,user_name,profile_url))
+		order = "insert into friends_info values ('%d','%d','%s','%s');" % (user_id,account_id,user_name.encode('utf-8'),profile_url)
+		cur.execute(order)
 		self.con.commit()
 
-	#也许用不到select操作，但还是写了，后期数据分析要用到，所以这里的代码没有具体实现
+	#将全部数据查询出来
 	def select(self):
 		cur = self.connect()
 		order = 'select* from friends_info'
