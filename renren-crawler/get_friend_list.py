@@ -2,28 +2,30 @@
 #-*- coding:utf-8 -*-
 #python 2.7.10
 
+'''获取好友列表中的下一页的链接'''
+
 __author__ = 'AJ Kipper'
 
 import re
 from bs4 import BeautifulSoup as bs
 
 
-class friend_list_url(object):
+class GetFriends(object):
 	def __init__(self):
-		self.next_url = []
+		pass
 
 	def get_next_url(self,page):
+		'''这个函数返回下一页链接'''
 		soup = bs(page)
-		for i in soup.find_all('div'):
-			url = re.findall(r'http.*?curpage=.*?e=',str(i.a))
-			#一个好友列表页面只有一个“下一页”链接，也就是url[0]
+		#先找出所有的a标签
+		for i in soup.find_all('a'):
+			#正则表达式先匹配出下一页的a标签
+			link = re.findall(r'<a href.*?>下一页<\/a>',str(i))
 			try:
-				self.next_url.append(url[0])
+				#进一步把url匹配出来，并返回
+				url = re.findall(r'http.*?curpage=.*?e=',link[0])
+				return url[0]
 			except:
 				pass
-		return self.next_url
 if __name__ == '__main__':
-	fileobj = file('test.html','r+')
-	html = fileobj.read()
-	test = friend_list_url()
-	print test.get_next_url(html)
+	GetFriends()
