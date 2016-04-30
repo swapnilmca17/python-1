@@ -18,6 +18,8 @@ from get_friend_info import FriendInfo
 from store_friends import StoreFriends
 #导入保存主页页面模块
 from store_profile import ProfileInfo
+#导入主页解析模块
+from get_profile_info import HomePage
 
 
 #---------中文报错转码---------------
@@ -39,7 +41,7 @@ class test(object):
 	def get_page(self,url):
 		return self.userlogin.login(url)
 
-	def store_friends_page(self):
+	def download_friends_page(self):
 		'''这个函数将所有的好友列表页面保存下来'''
 		#首先保存第一个页面
 		page = self.get_page(self.login_url)
@@ -80,15 +82,19 @@ class test(object):
 			for i in range(5):
 				#测试打印
 				print "%d : %d : %s : %s" % (self.id_count,int(id_list[i]),str(name_list[i]),str(url_list[i]))
-				list_test = [self.id_count,int(id_list[i]),str(name_list[i]),str(url_list[i])]
+				info_list = [self.id_count,int(id_list[i]),str(name_list[i]),str(url_list[i])]
 				try:
 					#调用数据库模块的插入方法
-					engine.insert(list_test)
+					user_id = info_list[0]
+					account_id = info_list[1]
+					user_name = info_list[2]
+					profile_url = info_list[3]
+					engine.insert("insert into friends_info values ('%d','%d','%s','%s');" % (user_id,account_id,user_name,profile_url))
 				except Exception,e:
 					print e
 				self.id_count += 1
 			self.count += 1
-	def store_profile_info(self):
+	def download_profile_page(self):
 		#实例化数据库操作模块对象
 		engine = Engine()
 		friends_info_list = engine.select()
@@ -101,8 +107,38 @@ class test(object):
 			#沉睡3秒
 			time.sleep(3)
 
+	def store_profile_info(self):
+		home_info = HomePage()
+		for i in range(1,208):
+			file_obj = file('profile/'+ str(i) + '.html','r')
+			html = file_obj.read()
+			file_obj.close()
+			engine = Engine()
+			info_dict = home_info.get_info(html)
+			
+			statement = "insert into profiles_info values ('%d','%s','%s','%s','%d','%d','%d','%d','%d','%d','%s');" % (
+				i,
+				info_dict['name'],
+				info_dict['gender'],
+				info_dict['visits'],
+				info_dict['level'],
+				info_dict['log'],
+				info_dict['album'],
+				info_dict['posts'],
+			    info_dict['board'],
+			    info_dict['public'],
+			    info_dict['last'])
+
+			try:
+				print info_dict['level']
+				#engine.insert(statement)
+				#print 'The %d page inserted successfully!' % i
+			except Exception,e:
+				print e
+
 if __name__ == '__main__':
 	test = test()
-	#test.store_friends_page()
+	#test.download_friends_page()
 	#test.store_friends_info()
+	#test.download_profile_page()
 	test.store_profile_info()
