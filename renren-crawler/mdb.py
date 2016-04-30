@@ -20,29 +20,19 @@ class Engine(object):
 		self.con = con
 		return cur
 
-	#也许用不到delete操作，但还是写了以免后期要用
-	def delete(self):
-		order = ''
+	def delete(self,statement):
 		cur = self.connect()
-		cur.execute(order)
+		cur.execute(statement)
 		self.con.commit()
 
-	def insert(self,info_list):
+	def insert(self,statement):
 		cur = self.connect()
-		#获取一个列表参数，将字段信息插入
-		user_id = info_list[0]
-		account_id = info_list[1]
-		user_name = info_list[2]
-		profile_url = info_list[3]
-		order = "insert into friends_info values ('%d','%d','%s','%s');" % (user_id,account_id,user_name.encode('utf-8'),profile_url)
-		cur.execute(order)
+		cur.execute(statement)
 		self.con.commit()
 
-	#将全部数据查询出来
-	def select(self):
+	def select(self,statement):
 		cur = self.connect()
-		order = 'select* from friends_info'
-		cur.execute(order)
+		cur.execute(statement)
 		values = cur.fetchall()
 		return values
 
