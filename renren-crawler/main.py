@@ -89,7 +89,7 @@ class test(object):
 					account_id = info_list[1]
 					user_name = info_list[2]
 					profile_url = info_list[3]
-					engine.insert("insert into friends_info values ('%d','%d','%s','%s');" % (user_id,account_id,user_name,profile_url))
+					engine.insert("insert into friends_info values('%d','%d','%s','%s');" % (user_id,account_id,user_name,profile_url))
 				except Exception,e:
 					print e
 				self.id_count += 1
@@ -115,24 +115,17 @@ class test(object):
 			file_obj.close()
 			engine = Engine()
 			info_dict = home_info.get_info(html)
+			for j in info_dict:
+				if type(info_dict[j]) == type(None):
+					info_dict[j] = '1010'
+				else:
+					pass
 			
-			statement = "insert into profiles_info values ('%d','%s','%s','%s','%d','%d','%d','%d','%d','%d','%s');" % (
-				i,
-				info_dict['name'],
-				info_dict['gender'],
-				info_dict['visits'],
-				info_dict['level'],
-				info_dict['log'],
-				info_dict['album'],
-				info_dict['posts'],
-			    info_dict['board'],
-			    info_dict['public'],
-			    info_dict['last'])
+			statement = "insert into profiles_info values('%d','%s','%s','%d','%d','%d','%d','%d','%d','%d','%s');" % (i,str(info_dict['name'].encode('utf-8')),str(info_dict['gender']),int(info_dict['visits']),int(info_dict['level']),int(info_dict['log']),int(info_dict['album']),int(info_dict['posts']),int(info_dict['board']),int(info_dict['public']),str(info_dict['last']))
 
 			try:
-				print info_dict['level']
-				#engine.insert(statement)
-				#print 'The %d page inserted successfully!' % i
+				engine.insert(statement)
+				print 'The %d page inserted successfully!' % i
 			except Exception,e:
 				print e
 

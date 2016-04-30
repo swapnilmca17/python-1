@@ -18,14 +18,14 @@ class HomePage(object):
 		info_dict = {
 			'name':'',
 			'gender':'',
-			'friends': 0,
-			'visits': 0,
-			'level': 0,
-			'log': 0,
-			'album': 0,
-			'posts': 0,
-			'board': 0,
-			'public': 0,
+			'friends':'',
+			'visits':'',
+			'level':'',
+			'log':'',
+			'album':'',
+			'posts':'',
+			'board':'',
+			'public':'',
 			'last':''
 			}
 		info_dict['friends'] = self._get_num(r'他|她的好友.*?\(\d+\)',html)
@@ -47,19 +47,19 @@ class HomePage(object):
 		for i in re.findall(r'<p class="gs">.*?<\/p>',html):
 			for i in re.findall(r'\d+.*\:\d+',i):
 				status.append(i)
-		if status is None:
-			info_dict['last'] = ' '
-		else:
-			info_dict['last'] = status[0]
+		try:
+			if type(status[0]) != type(None):
+				info_dict['last'] = str(status[0])
+			else:
+				info_dict['last'] = 'default'
+		except:
+			info_dict['last'] = 'default'
 		return info_dict
 
 	def _get_num(self,pattern,html):
 		for i in re.findall(pattern,html):
 			for i in re.findall(r'\d+',i):
-				if i == None:
-					return 1234567889
-				else:
-					return int(i)
+					return i
 
 if __name__ == '__main__':
 	HomePage()
