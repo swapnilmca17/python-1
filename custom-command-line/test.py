@@ -1,22 +1,13 @@
 #!/usr/bin/env python
-#-*- coding : utf-8-*-
+#-*-coding:utf-8-*-
 
-'''Module-function'''
+def Coding(coding_time):
+    print 'Programming %d hours per day.' % coding_time
+def Relax(relax_time):
+    print 'Spending %d hours on sharing my code on Internet.' % relax_time
 
-__author__ = 'AJ Kipper'
-
-
-
-
-class test(object):
-    '''class function'''
-    def __init__(self):
-        pass
-
-
-
-
-
-
-if __name__ == '__main__':
-    pass
+my_life_time = 10 #live to 100 age，maybe.
+for i in range(my_life_time):
+    Coding(12)
+    Relax(11)
+    print 'Spending 1 hours on doing other things.'
