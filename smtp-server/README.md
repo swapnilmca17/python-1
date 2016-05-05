@@ -38,6 +38,21 @@
 ---------------
 <h5 id = 'c3'>3. 使用说明</h5>
 
-1. 分别在代码中补充自己的邮箱账号和使用的邮件服务器
+* 在emailserver.py里面写上选择的邮件服务器
 
-2. 在终端用Python命令运行register.py文件即可
+<pre><code>
+#设置发送来源的邮箱地址
+self.mail_account = 'Your email account'
+self.mail_passwd = 'Your email password'
+</code>
+</pre>
+
+* 在register.py文件里面写上要发送的邮件地址
+
+<pre><code>
+#要发送邮箱地址
+test = register(['Email adress'])
+</code>
+</pre>
+
+* 在终端用Python命令运行register.py文件即可
