@@ -1,0 +1,270 @@
+{'view': '32', 'price': '6800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '微软Surface Pro3高配版+键盘 全新未拆封', 'area': ['朝阳', '-', '大望路']}
+{'view': '175', 'price': '600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人ipad4国行16g发烧配件齐全wifi加4g', 'area': ['丰台', '-', '草桥']}
+{'view': '205', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPadmini4全新未开封', 'area': ['顺义', '-', '顺义城区']}
+{'view': '2', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '全新iPad迷你四，土豪金国行64G平板', 'area': ['丰台']}
+{'view': '426', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人转让全新优派 大屏21.5英寸触摸智能平板wifi显示器', 'area': ['石景山', '-', '衙门口']}
+{'view': '295', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '1个全新windows系统平板电脑', 'area': ['海淀', '-', '紫竹桥']}
+{'view': '238', 'price': '430', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '美国亚马逊 kindle fire HD 8.9寸 平板电脑', 'area': None}
+{'view': '200', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人ipad4国行16g正品发票配件', 'area': ['丰台', '-', '七里庄']}
+{'view': '101', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '刚买一刚买一个多月', 'area': ['通州', '-', '土桥']}
+{'view': '341', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人诚心转让爱拍的4！有发票', 'area': ['崇文', '-', '广渠门']}
+{'view': '60', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipadmini2深空灰色平板电脑', 'area': ['大兴', '-', '大兴周边']}
+{'view': '172', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad mini.4 64G 国行 全新未用', 'area': ['宣武']}
+{'view': '65', 'price': '600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '三星平板一口价', 'area': ['通州', '-', '运河大街']}
+{'view': '6', 'price': '3100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipadmini4. 64g ios8可越狱！！', 'area': ['通州', '-', '中仓']}
+{'view': '855', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '女孩用iPad4 16G 国行', 'area': ['朝阳', '-', '国贸']}
+{'view': '0', 'price': '1600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '九成新的苹果平板电脑', 'area': ['通州', '-', '武夷花园']}
+{'view': '5', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '出售新款全新苹果.SE一部，玫瑰金', 'area': ['崇文']}
+{'view': '75', 'price': '1499', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '三星平板特价出售', 'area': ['丰台', '-', '东高地']}
+{'view': '6', 'price': '1880', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'HTC x9500', 'area': None}
+{'view': '14', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '转让一台自家的平板手机 全新的一次没用过能打电话', 'area': ['朝阳']}
+{'view': '27', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '台电X16Pro64GB11.6英寸平板电脑', 'area': ['丰台', '-', '西客站']}
+{'view': '87', 'price': '4400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'surfacepro3专业版i5 128出售', 'area': ['顺义', '-', '后沙峪']}
+{'view': '340', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad4 64G 国行 WiFi 平板电脑', 'area': ['丰台']}
+{'view': '23', 'price': '1688', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '闲置的金色ipad air 二代64G 国行 WiFi 平板电脑 有正品发票', 'area': None}
+{'view': '268', 'price': '598', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad1黑色32G内存', 'area': ['海淀']}
+{'view': '336', 'price': '2400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '国行正品 ipad air2低价转让 自带beats耳机', 'area': ['丰台', '-', '大红门']}
+{'view': '8', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad和iPod打包出手', 'area': ['海淀', '-', '交通大学']}
+{'view': '184', 'price': '1600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad .Air.二代 64G的 国行 全新机可插卡的', 'area': ['崇文']}
+{'view': '55', 'price': '5100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '闲置转让pro', 'area': ['通州']}
+{'view': '144', 'price': '1600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad Air.二代国行 64G 土豪金平板', 'area': ['丰台']}
+{'view': '103', 'price': '1600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人新ipad6国行64g正品发票', 'area': ['丰台', '-', '洋桥']}
+{'view': '15', 'price': '2600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '插SIM卡iPad Air 64G 国行 WiFi+4G', 'area': ['昌平', '-', '立水桥']}
+{'view': '358', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '全新 IPAD行货 Pro 128G 有发票', 'area': ['朝阳', '-', '国贸']}
+{'view': '267', 'price': '850', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '转让闲置苹果iPad2一部', 'area': ['西城', '-', '西四']}
+{'view': '2', 'price': '1600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad ari 2 代 64G 国行 WiFi+4G 平板电脑', 'area': ['宣武']}
+{'view': '41', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '闲置金色iPad mini 4代64G 国行 WiFi 加 4G 平板电脑 有正品发票', 'area': ['丰台']}
+{'view': '178', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '正品mini4有发票可验机低价转', 'area': ['朝阳', '-', '四惠']}
+{'view': '15', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipadmini低价卖', 'area': ['宣武', '-', '虎坊桥']}
+{'view': '212', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '国行半新自用爱拍4！', 'area': ['丰台']}
+{'view': '666', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '国行 iPad mini 3 在保 64G', 'area': ['丰台', '-', '角门']}
+{'view': '228', 'price': '1450', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '很不错的平板电脑', 'area': ['顺义', '-', '李桥']}
+{'view': '161', 'price': '950', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '微软 surface1 平板电脑 +原装键盘+原装保护套', 'area': ['顺义', '-', '顺义城区']}
+{'view': '7', 'price': '400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '其他品牌 平板电脑', 'area': ['丰台']}
+{'view': '100', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '爱拍的六国行有发票自用的', 'area': ['崇文', '-', '崇文门']}
+{'view': '6', 'price': '60', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '昂达平板电脑 VX610W加强版', 'area': ['朝阳', '-', '酒仙桥']}
+{'view': '379', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad Air 16G 国行 刚买2月全新 在保修期内 有正品发票', 'area': ['海淀', '-', '西二旗']}
+{'view': '256', 'price': '380', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '小女子诚心低价转让美国大品牌亚马逊平板电脑，高端商务人士专用', 'area': ['朝阳']}
+{'view': '255', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad mini3 64G 国行 WiFi 平板电脑', 'area': ['丰台']}
+{'view': '103', 'price': '450', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '二手iPad1，低价转让', 'area': ['海淀', '-', '世纪城']}
+{'view': '312', 'price': '2800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'IPAD AIR一代128G＋3G', 'area': ['西城', '-', '阜成门']}
+{'view': '197', 'price': '1380', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipad 16G', 'area': ['西城', '-', '西便门']}
+{'view': '51', 'price': '2600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人ipad air2出售16Gwifi版', 'area': ['大兴', '-', '庞各庄']}
+{'view': '167', 'price': '400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ifive mini3 16GB 7.9寸视网膜屏平板电脑', 'area': ['丰台']}
+{'view': '171', 'price': '3200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '转全新国行ipad air 2，64GWIFI银色', 'area': ['朝阳', '-', '国贸']}
+{'view': '141', 'price': '300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'e人e本t2平板电脑、E人E本T2电脑', 'area': ['大兴']}
+{'view': '226', 'price': '300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '宏碁w3-810平板电脑win10系统', 'area': ['丰台', '-', '宋家庄']}
+{'view': '320', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '转让全新国行iPad mini 四代自己的平板', 'area': ['丰台']}
+{'view': '410', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipad2，16G,加Wi-Fi,缺钱着急卖！', 'area': ['丰台', '-', '七里庄']}
+{'view': '66', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipad2，16G，在家没什么用，急卖！！', 'area': ['丰台', '-', '卢沟桥']}
+{'view': '488', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad mini3 64G 港版 WiFi 平板电脑', 'area': ['朝阳', '-', '酒仙桥']}
+{'view': '298', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人ipad全新mini4国行64g正品发票', 'area': ['丰台', '-', '菜户营']}
+{'view': '43', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad4 16G 黑色 转让', 'area': ['海淀', '-', '学院路']}
+{'view': '92', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '自用酷比魔方i10', 'area': ['朝阳', '-', '豆各庄']}
+{'view': '322', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '闲置的 mini 4代64G 国行 WiFi 加4G平板电脑 有正品发票', 'area': ['丰台']}
+{'view': '36', 'price': '2800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipad air2', 'area': ['海淀', '-', '肖家河']}
+{'view': '14', 'price': '2300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '个人转让全新联想 YOGA平板 13.3平板2k屏显电脑', 'area': ['石景山', '-', '八角']}
+{'view': '882', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '女孩用iPad4 16G 国行 WiFi 平板电脑', 'area': ['丰台', '-', '右安门']}
+{'view': '402', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad3 16G 国行 WiFi 平板电脑', 'area': ['昌平', '-', '天通苑']}
+{'view': '125', 'price': '260', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '9寸全新平板电脑一台260元转让', 'area': ['海淀']}
+{'view': '37', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '苹果MINI2平板全新的白色国行转让', 'area': ['东城']}
+{'view': '6', 'price': '600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'Apple iPad2', 'area': ['顺义', '-', '天竺']}
+{'view': '68', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '32G内存惠普（HP）SlateBook 10 10.1英寸平板二合一电脑', 'area': ['昌平', '-', '立水桥']}
+{'view': '2', 'price': '9900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '其他品牌 平板电脑', 'area': None}
+{'view': '298', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '转让自用的iPad4 64G 国行平板', 'area': ['丰台']}
+{'view': '1133', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '正品 iPad mini 4 在保 64G 国行', 'area': ['朝阳', '-', '国贸']}
+{'view': '473', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '全新 liPad 国行 proe 未拆封 128G 国行', 'area': ['丰台', '-', '方庄']}
+{'view': '1001', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad4 64G 国行 WiFi 平板电脑', 'area': ['丰台', '-', '西罗园']}
+{'view': '507', 'price': '面议', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad Air2 64G 国行 WiFi+4G 平板电脑', 'area': ['海淀']}
+{'view': '130', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '99新iPad Air2转让', 'area': ['西城', '-', '地安门']}
+{'view': '33', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad3 32G 国行 WiFi+4G 平板电脑', 'area': ['丰台', '-', '草桥']}
+{'view': '470', 'price': '499', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '转让全新天米魔方平板电脑，联通3G，双卡双待', 'area': ['昌平', '-', '沙河']}
+{'view': '290', 'price': '300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '全新十寸平板电脑，全新大屏幕DVD机', 'area': ['丰台']}
+{'view': '24', 'price': '2000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad mini4 平板电脑 iPad mini4 平板电脑 iPad mini4', 'area': None}
+{'view': '358', 'price': '1388', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '美女个人出售iPad mini3 64G 国行 WiFi+4G 平板电脑', 'area': ['海淀']}
+{'view': '7', 'price': '2200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'ipad air2 64G', 'area': ['东城', '-', '东单']}
+{'view': '5', 'price': '2700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': 'iPad mini4 平板电脑', 'area': ['朝阳', '-', '三元桥']}
+{'view': '111', 'price': '450', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '三星平板电脑', 'area': ['通州', '-', '玉桥']}
+{'view': '139', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '本人女生自用14寸联想本本闲置 高配置能玩网游', 'area': ['朝阳', '-', '奥运村']}
+{'view': '53', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '系列 笔记本个人闲置联想thinkpad1100转让(可以再小刀)', 'area': ['朝阳']}
+{'view': '112', 'price': '1600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '刚买了没几天的ipad3', 'area': ['昌平', '-', '天通苑']}
+{'view': '38', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '平板lpdmini2 32g', 'area': ['顺义', '-', '后沙峪']}
+{'view': '355', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-09', 'title': '转让平板电脑', 'area': ['朝阳', '-', '望京']}
+{'view': '96', 'price': '850', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '11寸超大屏幕32G大内存的全新平板电脑', 'area': ['海淀', '-', '紫竹桥']}
+{'view': '49', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '自用ipad mini', 'area': ['通州', '-', '东关']}
+{'view': '702', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '特别新iPad4 16G 国行 WiFi 平板电脑', 'area': ['丰台']}
+{'view': '23', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini3 64G 国行 WLAN版', 'area': ['大兴', '-', '兴丰大街']}
+{'view': '84', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新的win10系统高配置平板电脑', 'area': ['西城', '-', '阜成门']}
+{'view': '39', 'price': '750', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新在保华硕平板电脑超高清', 'area': ['海淀', '-', '魏公村']}
+{'view': '16', 'price': '1800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad Air 16G 港版 WiFi 平板电脑', 'area': ['海淀', '-', '四季青']}
+{'view': '122', 'price': '2000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '99新的ipadari刚买两个月', 'area': ['昌平', '-', '龙泽']}
+{'view': '131', 'price': '850', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad1 64G 国行 WiFi+3G 平板电脑', 'area': ['朝阳']}
+{'view': '419', 'price': '830', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '9.7英寸娱乐通话平板，四核凌动英特尔芯，视网膜IPS屏幕', 'area': ['昌平', '-', '天通苑']}
+{'view': '1151', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '在保 iPad mini 4 64G 国行', 'area': ['朝阳', '-', '国贸']}
+{'view': '282', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新 liPad 国行 proe 未拆封 128G 国行', 'area': ['丰台', '-', '角门']}
+{'view': '74', 'price': '950', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '1个全新宏基Acer 平板电脑', 'area': ['海淀', '-', '航天桥']}
+{'view': '21', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini 16G 国行 WiFi 平板电脑', 'area': ['顺义', '-', '顺义周边']}
+{'view': '19', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini2 16G 港版 WiFi 平板电脑', 'area': ['朝阳', '-', '垡头']}
+{'view': '26', 'price': '4900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad Pro 9.7 全新未拆封', 'area': ['大兴']}
+{'view': '531', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人ipad4黑色16G', 'area': ['崇文', '-', '永定门']}
+{'view': '87', 'price': '6500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新未拆封windows平板电脑surface低价出售', 'area': ['通州', '-', '武夷花园']}
+{'view': '167', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad1 6 G pad4 四代 平板电脑', 'area': ['丰台', '-', '西罗园']}
+{'view': '47', 'price': '1600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ipadmini3自用金色16g', 'area': ['朝阳', '-', '燕莎']}
+{'view': '323', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新 liPad 国行 proe 未拆封 128G 国行', 'area': ['丰台', '-', '角门']}
+{'view': '171', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '台电x16hd', 'area': ['丰台', '-', '丰台路']}
+{'view': '229', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新戴尔2年质保的平板电脑,超高分辨率屏幕', 'area': ['海淀', '-', '花园桥']}
+{'view': '382', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '刚用没几天，缺钱用甩了', 'area': ['通州', '-', '新华大街']}
+{'view': '3', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '联想/ThinkPad Tablet 平板电脑', 'area': ['东城', '-', '朝阳门']}
+{'view': '240', 'price': '300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '单位发的全新摩托罗拉多媒体平板电脑', 'area': ['朝阳']}
+{'view': '201', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ipad mini 4', 'area': ['丰台', '-', '宋家庄']}
+{'view': '149', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '转让ipad mini 平板', 'area': ['朝阳', '-', '劲松']}
+{'view': '237', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini 4 64G 国行 WiFi+4G 平板电脑', 'area': ['丰台']}
+{'view': '15', 'price': '400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '亚马逊读书 平板电脑', 'area': ['昌平', '-', '霍营']}
+{'view': '17', 'price': '1999', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ipad air 16g 白色', 'area': ['顺义', '-', '裕龙']}
+{'view': '66', 'price': '1900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '华为M2金色平板', 'area': ['海淀']}
+{'view': '272', 'price': '650', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ipad2，wifi版', 'area': ['朝阳', '-', '小红门']}
+{'view': '152', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '其他品牌 平板电脑', 'area': ['昌平', '-', '立水桥']}
+{'view': '28', 'price': '400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '三星T221型平板电脑七寸手机。', 'area': None}
+{'view': '12', 'price': '450', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '亚马逊平板，配件齐全', 'area': ['海淀', '-', '永定路']}
+{'view': '10', 'price': '2000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '三星大屏平板Galaxy Note10.1最好同城面付', 'area': ['海淀', '-', '人民大学']}
+{'view': '3', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '索立信平板电脑', 'area': ['昌平', '-', '龙泽']}
+{'view': '11', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人闲置华硕平板电脑出售', 'area': ['通州', '-', '马驹桥']}
+{'view': '337', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '转让个人自用ipad', 'area': ['海淀', '-', '白石桥']}
+{'view': '66', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '完美使用中iPad mini', 'area': ['通州', '-', '果园']}
+{'view': '25', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '小米 平板电脑', 'area': ['昌平', '-', '立水桥']}
+{'view': '50', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad3 16G WiFi 平板低价转让', 'area': ['丰台', '-', '方庄']}
+{'view': '235', 'price': '2600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'E人E本 其他 平板电脑 有正品发票', 'area': ['海淀', '-', '苏州街']}
+{'view': '468', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新 liPad 国行 proe 有发票 128G 国行', 'area': ['朝阳', '-', '国贸']}
+{'view': '196', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人闲置ipad4国行16g发票配件齐全wifi加4g', 'area': ['丰台', '-', '刘家窑']}
+{'view': '15', 'price': '1700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '基本新的iPad Air 16G 国行 WiFi 平板电脑', 'area': ['昌平', '-', '东小口']}
+{'view': '481', 'price': '1900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad Air 16G 国行 WiFi 平板电脑', 'area': ['昌平', '-', '天通苑']}
+{'view': '36', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '平板电脑转让', 'area': ['丰台', '-', '南苑']}
+{'view': '57', 'price': '2400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人真实转ipad air2', 'area': None}
+{'view': '184', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '1个全新windows系统平板电脑', 'area': ['海淀', '-', '紫竹桥']}
+{'view': '105', 'price': '7100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '换新款了所以准iPad mini3 16G 国行 WiFi 平板电脑', 'area': None}
+{'view': '21', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '戴尔 XPS10 平板电脑', 'area': ['海淀', '-', '玉泉路']}
+{'view': '491', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '出售二手ipad3无划痕，无拆无修', 'area': ['朝阳', '-', '团结湖']}
+{'view': '156', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新的宏基Acer高配置前黑后红平板电脑', 'area': ['海淀', '-', '白石桥']}
+{'view': '52', 'price': '600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '爱国者 E700 平板电脑 在保修期内', 'area': ['朝阳']}
+{'view': '133', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ThinkPad8/ThinkPad 8 Windows平板电脑 转让', 'area': ['朝阳', '-', '潘家园']}
+{'view': '411', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '正品 国行16G黑色ipad4', 'area': ['通州', '-', '北关']}
+{'view': '210', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '自己的ipad转卖', 'area': ['海淀', '-', '大钟寺']}
+{'view': '41', 'price': '3500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini4 128G 美版 WiFi 平板电脑', 'area': ['朝阳', '-', '亚运村']}
+{'view': '143', 'price': '1700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '转让ipad32G', 'area': ['朝阳', '-', '十里河']}
+{'view': '123', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人ipad 国行在保修', 'area': ['朝阳', '-', '劲松']}
+{'view': '27', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人ipad wifi版本', 'area': ['朝阳', '-', '四惠']}
+{'view': '7', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '闲置出售物美价廉', 'area': ['昌平', '-', '龙泽']}
+{'view': '9', 'price': '550', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad1 64G', 'area': ['昌平', '-', '天通苑']}
+{'view': '42', 'price': '200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '其他品牌 平板电脑', 'area': ['朝阳', '-', '劲松']}
+{'view': '39', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini1', 'area': ['朝阳', '-', '四惠']}
+{'view': '60', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad Air 2 2500元，面交', 'area': ['海淀', '-', '双榆树']}
+{'view': '162', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini 2 Wi-Fi 16G 白色 港版', 'area': ['通州', '-', '物资学院路']}
+{'view': '551', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人金色iPad mini 4代64G 国行 WiFi 加 4G 平板电脑 有正品发票', 'area': None}
+{'view': '23', 'price': '6000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '9.9成新pro，配件齐全', 'area': ['丰台', '-', '刘家窑']}
+{'view': '131', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '9成新 ipad平板转', 'area': ['朝阳', '-', '国贸']}
+{'view': '265', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '自用平板ipad国行正品', 'area': ['海淀', '-', '学院路']}
+{'view': '212', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '爱拍6超薄9.7寸国行有发票', 'area': ['东城', '-', '建国门']}
+{'view': '48', 'price': '6000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad Pro 9.7寸 128G 灰色 带笔', 'area': None}
+{'view': '406', 'price': '2200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新三星10.5寸T800平板Super AMOLED屏', 'area': ['海淀', '-', '西北旺']}
+{'view': '435', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '昂达v919 3G CoreM 4G 64Gssd内存', 'area': ['大兴', '-', '亦庄']}
+{'view': '361', 'price': '1350', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad mini4 64G 国行 WiFi+4G 平板电脑 有正品发票', 'area': None}
+{'view': '9', 'price': '2300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人转让ipadmini4', 'area': ['宣武', '-', '天宁寺']}
+{'view': '9', 'price': '5000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'PadPro转让', 'area': ['丰台', '-', '草桥']}
+{'view': '137', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '金色 国行 64G ipad', 'area': ['朝阳', '-', '国贸']}
+{'view': '159', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人ipad在保修转让', 'area': ['通州', '-', '果园']}
+{'view': '211', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '金色ipad想卖', 'area': ['朝阳', '-', '四惠']}
+{'view': '176', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '个人平板电脑ipad', 'area': ['朝阳', '-', '东大桥']}
+{'view': '65', 'price': '1088', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad4 64G 国行 WiFi+4G 平板电脑 个人自用', 'area': ['朝阳']}
+{'view': '60', 'price': '2200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '9层新iPad 迷你2', 'area': ['朝阳', '-', '四惠']}
+{'view': '532', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '95新iPad4 16G 国行 WiFi 平板电脑', 'area': ['丰台', '-', '大红门']}
+{'view': '415', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '全新 IPAD Pro 行货128G 个人转让', 'area': ['西城', '-', '西四']}
+{'view': '447', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '32g平板电脑95层新 低价出售', 'area': ['东城', '-', '东单']}
+{'view': '99', 'price': '1700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '转让ipad3 itouch4', 'area': ['昌平', '-', '霍营']}
+{'view': '31', 'price': '999', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ipadmini', 'area': ['朝阳', '-', '建外大街']}
+{'view': '66', 'price': '6500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '顶级微软Pro3出售', 'area': ['朝阳', '-', '朝外大街']}
+{'view': '108', 'price': '5', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '转让i转让ipad min2高透防刮膜', 'area': ['朝阳', '-', '双井']}
+{'view': '7', 'price': '888', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ipad mini 16G', 'area': None}
+{'view': '398', 'price': '100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '其他品牌 平板电脑', 'area': ['丰台', '-', '菜户营']}
+{'view': '435', 'price': '3200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'ipad air2', 'area': ['崇文', '-', '新世界']}
+{'view': '107', 'price': '2999', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad Air2 16G 国行 WiFi+4G 可插sim卡，联通，移动，电信全网4G', 'area': ['朝阳', '-', '大望路']}
+{'view': '128', 'price': '2000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': '港版 全新iPadmini2 32G', 'area': ['朝阳', '-', '东坝']}
+{'view': '30', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-08', 'title': 'iPad Air2 128G 国行 WiFi 平板电脑', 'area': ['石景山']}
+{'view': '74', 'price': '1300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad mini4 64G 国行 WiFi 平板电脑', 'area': ['顺义', '-', '顺义城区']}
+{'view': '298', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '微软surfaceRT平板电脑+原装cover蓝色键盘', 'area': ['朝阳', '-', '北沙滩']}
+{'view': '245', 'price': '950', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '小米平板2粉色', 'area': ['朝阳']}
+{'view': '23', 'price': '18000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '微软surfacebook顶配', 'area': ['丰台', '-', '总部基地']}
+{'view': '58', 'price': '1750', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad air 刚毕业学生出掉回血，', 'area': ['海淀', '-', '上地']}
+{'view': '65', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '爱国者 其他 平板电脑', 'area': ['丰台', '-', '北大地']}
+{'view': '157', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新的win10系统高配置平板电脑', 'area': ['西城', '-', '阜成门']}
+{'view': '58', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '联想miix8寸平板，自带3g', 'area': ['朝阳', '-', '姚家园']}
+{'view': '51', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '爱国者数字移动电视CMMB 高清电影本', 'area': ['朝阳']}
+{'view': '171', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '自己一手带大的……', 'area': ['昌平', '-', '百善']}
+{'view': '478', 'price': '2500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新行货汉王B10-N1平板手写电脑', 'area': ['朝阳', '-', 'CBD']}
+{'view': '88', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新的宏基Acer高配置前黑后红平板电脑', 'area': ['海淀', '-', '白石桥']}
+{'view': '175', 'price': '680', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '联想小s拼搏版，高清平板，9.9成新，送保护壳和内存卡', 'area': ['海淀', '-', '白石桥']}
+{'view': '333', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPadpro64G 国行 WiFi+4G 平板电脑 在保修期内 有正品发票', 'area': ['丰台', '-', '大红门']}
+{'view': '520', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad Pro128G 国行 WiFi+4G 在保修期内 有正品发票', 'area': ['丰台', '-', '草桥']}
+{'view': '39', 'price': '6000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad Pro 国行 WiFi 平板电脑', 'area': ['朝阳', '-', '亚运村小营']}
+{'view': '410', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad mini 64G 国行 WiFi+4G 平板电脑', 'area': ['丰台', '-', '大红门']}
+{'view': '182', 'price': '4600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'ThinkPad10', 'area': ['丰台', '-', '赵公口']}
+{'view': '30', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '三星平板电脑', 'area': ['石景山', '-', '八角']}
+{'view': '89', 'price': '1800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '本人自用苹果银色 iPadAir32G 平板电脑', 'area': None}
+{'view': '141', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad2 16G 港版 WiFi 平板电脑', 'area': ['东城', '-', '东直门']}
+{'view': '57', 'price': '1700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'ipadmini2和beats solo2打包出售', 'area': ['昌平']}
+{'view': '45', 'price': '850', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '11寸超大屏幕32G大内存的全新平板电脑', 'area': ['海淀', '-', '紫竹桥']}
+{'view': '72', 'price': '3300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新未拆封 ipad mini 4 64G 金色 wlan', 'area': ['西城', '-', '金融街']}
+{'view': '183', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新iPadmini2 16gWiFi', 'area': ['海淀', '-', '双榆树']}
+{'view': '273', 'price': '788', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'ipadmini1.9成新', 'area': ['西城', '-', '西直门']}
+{'view': '434', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '国行 iPad 全新 pro 有发票 128G', 'area': ['朝阳', '-', 'CBD']}
+{'view': '23', 'price': '1400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad mini1和iPod5打包', 'area': ['海淀', '-', '交通大学']}
+{'view': '512', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '其他品牌 平板电脑', 'area': ['丰台', '-', '丰台周边']}
+{'view': '147', 'price': '900', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新宏基Acer 平板电脑 1个', 'area': ['海淀', '-', '航天桥']}
+{'view': '29', 'price': '300', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '其他品牌 平板电脑', 'area': ['宣武', '-', '陶然亭']}
+{'view': '90', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'ipad4+belkin键盘', 'area': ['海淀', '-', '学院路北']}
+{'view': '127', 'price': '2499', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '苹果iPad mini4 金色 16GB WLAN版', 'area': ['通州', '-', '潞城']}
+{'view': '22', 'price': '400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '其他品牌 平板电脑', 'area': ['昌平', '-', '昌平周边']}
+{'view': '118', 'price': '2000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad mini 64G 美版 WiFi+4G 平板电脑', 'area': ['大兴', '-', '旧宫']}
+{'view': '139', 'price': '4600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '一次没用全新E人E本 T9最新款大容量', 'area': ['昌平', '-', '立水桥']}
+{'view': '43', 'price': '1650', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '十成新港版ipad air 16G', 'area': ['通州', '-', '马驹桥']}
+{'view': '27', 'price': '1700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'ipadmini3国行土豪金16G wifi版低价转让', 'area': ['昌平', '-', '天通苑']}
+{'view': '21', 'price': '2999', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad Air2 16G 国行 WiFi+4G 可插sim卡，联通，移动，电信全网4G', 'area': ['朝阳']}
+{'view': '134', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新戴尔2年质保的平板电脑,超高分辨率屏幕', 'area': ['海淀', '-', '花园桥']}
+{'view': '323', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '华硕视网膜屏双卡电话全新平板电脑', 'area': ['西城', '-', '车公庄']}
+{'view': '98', 'price': '1188', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad3 16G 国行 WiFi 平板电脑', 'area': ['昌平', '-', '东小口']}
+{'view': '39', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '95成新iPad 3代低价转让', 'area': ['海淀', '-', '四季青']}
+{'view': '258', 'price': '3000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新 iPad 国行 pro 有发票 128G', 'area': ['丰台', '-', '花乡']}
+{'view': '215', 'price': '5000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '其他品牌 平板电脑', 'area': ['房山', '-', '良乡']}
+{'view': '117', 'price': '1100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'ipad mini 银色，16g', 'area': ['朝阳', '-', '双桥']}
+{'view': '127', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '个人 自用ipad wifi版', 'area': ['丰台', '-', '草桥']}
+{'view': '573', 'price': '500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '转卖我的ipad4', 'area': ['朝阳', '-', '四惠']}
+{'view': '41', 'price': '5000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad Pro 128G 国行 WiFi 平板电脑', 'area': ['朝阳', '-', '芍药居']}
+{'view': '14', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '三星 其他 平板电脑', 'area': ['石景山', '-', '古城']}
+{'view': '189', 'price': '1200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '99新，个人诚出iPad3 国行16G用几次崭新的', 'area': ['昌平', '-', '立水桥']}
+{'view': '225', 'price': '400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '七代kindke 全新未拆封', 'area': ['丰台', '-', '总部基地']}
+{'view': '171', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '个人使用的ipad转让', 'area': ['东城', '-', '东四']}
+{'view': '73', 'price': '700', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '个人平板电脑ipad', 'area': ['海淀', '-', '牡丹园']}
+{'view': '85', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '个人 平板电脑 ipad转卖', 'area': ['朝阳', '-', '四惠']}
+{'view': '98', 'price': '999', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '神舟pcpad买来没怎么用。一直闲置', 'area': ['昌平', '-', '立水桥']}
+{'view': '5', 'price': '2000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '全新未开封 港版 iPadmini2 32G', 'area': ['朝阳', '-', '东坝']}
+{'view': '30', 'price': '70', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '三星 其他 平板电脑 在保修期内', 'area': None}
+{'view': '121', 'price': '6600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad Pro128G金色', 'area': ['海淀', '-', '知春路']}
+{'view': '5', 'price': '3200', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'IPAD AIR', 'area': ['丰台', '-', '方庄']}
+{'view': '20', 'price': '1750', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '未拆封的ipad mini2', 'area': ['丰台', '-', '青塔']}
+{'view': '4', 'price': '1800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '99成新银色ipad air便宜转让', 'area': ['丰台', '-', '西客站']}
+{'view': '118', 'price': '600', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '10寸三星p5113原装正品平板电脑', 'area': ['通州', '-', '玉桥']}
+{'view': '245', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '本本是在苏宁买的 全国联保三年 现还有两年多保修 发票和配件齐全 有意者可电话咨询本本的具体配置', 'area': None}
+{'view': '40', 'price': '1080', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad4 64G 国行 WiFi+4G 平板电脑个人出售', 'area': ['海淀']}
+{'view': '29', 'price': '1388', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': 'iPad mini3 64G 国行 WiFi+4G 平板电脑', 'area': ['海淀']}
+{'view': '487', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-07', 'title': '闲置一台联想thinkpadI7笔记本电脑低价转', 'area': ['朝阳', '-', '芍药居']}
+{'view': '132', 'price': '1000', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': 'ipab316G', 'area': ['朝阳']}
+{'view': '12', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '三星平板急售', 'area': ['朝阳', '-', '亚运村小营']}
+{'view': '262', 'price': '950', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '华硕视网膜屏双卡电话全新平板电脑', 'area': ['西城', '-', '车公庄']}
+{'view': '50', 'price': '400', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '三星T221型平板电脑手机，双核八G，九成新。', 'area': None}
+{'view': '20', 'price': '1688', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '转让iPad mini4 128G 国行 WiFi+4G 平板电脑', 'area': ['东城']}
+{'view': '36', 'price': '2100', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '全新iPad Air II 64G 国行 WiFi 平板电脑', 'area': ['丰台']}
+{'view': '40', 'price': '6588', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '转让全新未拆封iPad pro128G', 'area': ['昌平', '-', '天通苑']}
+{'view': '12', 'price': '1500', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '出宏碁win 8平板电脑', 'area': None}
+{'view': '49', 'price': '800', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '自用HP Stram8, wifi, 32G内存', 'area': ['朝阳', '-', '南磨房']}
+{'view': '118', 'price': '650', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': 'iPad4 16G 国行 WiFi+4G 平板电脑', 'area': None}
+{'view': '264', 'price': '1450', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': 'iPad6 64G 国行 WiFi+4G 平板电脑 有正品发票', 'area': None}
+{'view': '233', 'price': '750', 'quality': '成色：', 'cate': '北京二手平板电脑', 'date': '2016-05-06', 'title': '全新华硕视网膜屏平板电脑2年质保', 'area': ['海淀', '-', '魏公村']}
