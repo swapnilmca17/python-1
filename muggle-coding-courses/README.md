@@ -13,4 +13,6 @@
 
 我是团队的一员，负责同学问题的解答和整理，而这里的代码也是课程部分的实践代码。
 
+[GitBook: 问题解答和归档](https://www.gitbook.com/book/ajkipper/mugglecoding-questions/details)
+
 2016.5.17
