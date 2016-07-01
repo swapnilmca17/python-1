@@ -36,9 +36,11 @@
 ---------------
 <h5 id = 'c3'>3. 使用说明</h5>
 
-具体的项目讲解已经发表在我的博客上，欢迎访问：[AJ Kipper(micronoob.com)](http://cn.micronoob.com/python%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/)
+具体的项目讲解已经发表在我的Gitbook上，欢迎访问：[AppStore数据分析](https://ajkipper.gitbooks.io/python-projects/content/xiang_mu_ff1a_appstore_shu_ju_fen_xi.html)
 
 ---------------
 <h5 id = 'c4'>4. 可视化结果</h5>
 
-![AppStore Analyse](http://cn.micronoob.com/wp-content/uploads/sites/4/2015/10/view.jpg)
+图：AppStore中的888个App中的类型占比饼图
+
+![AppStore Analyse](https://raw.githubusercontent.com/AJKipper/PythonProjects/master/appstore-data-analyse/ResultPics/data.jpg)
