@@ -43,4 +43,4 @@
 
 图：AppStore中的888个App中的类型占比饼图
 
-![AppStore Analyse](https://raw.githubusercontent.com/AJKipper/PythonProjects/master/appstore-data-analyse/ResultPics/data.jpg)
+![AppStore Analyse](https://raw.githubusercontent.com/AJKipper/PythonProjects/master/appstore-data-analyse/result-pics/data.jpg)
