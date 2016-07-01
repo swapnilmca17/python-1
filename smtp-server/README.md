@@ -20,6 +20,7 @@
   - email
   - emailserver
   - random
+  - sys.argv
 
 <h5 id = 'c2'>2. 项目说明</h5>
 
@@ -47,12 +48,13 @@ self.mail_passwd = 'Your email password'
 </code>
 </pre>
 
-* 在register.py文件里面写上要发送的邮件地址
+* 在终端用Python命令运行register.py，并加上要发送的邮件即可
+
+例子：
 
 <pre><code>
-#要发送邮箱地址
-test = register(['Email address you want to send!'])
+ ~ python register.py 517450974@qq.com
+(True, '1387')
+ ~
 </code>
 </pre>
-
-* 在终端用Python命令运行register.py文件即可
