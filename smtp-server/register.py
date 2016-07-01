@@ -15,7 +15,6 @@ class register:
 		#产生一个4个数字的伪随机数作为验证码
 		code = randint(1000,2000)
 		self.reg_email = email
-		print(email)
 		self.code = str(code)
 	def verify(self):
 		email = emailserver.email_server(self.reg_email,self.code)

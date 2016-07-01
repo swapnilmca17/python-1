@@ -36,6 +36,8 @@
 
 4. register.py文件完成产生伪随机数和验证功能
 
+更具体的了解请访问Gitbook：[邮件发送脚本](https://ajkipper.gitbooks.io/python-projects/content/xiang_mu_ff1a_you_jian_fa_song.html)
+
 ---------------
 <h5 id = 'c3'>3. 使用说明</h5>
 
