@@ -51,7 +51,7 @@ self.mail_passwd = 'Your email password'
 
 <pre><code>
 #要发送邮箱地址
-test = register(['Email adress'])
+test = register(['Email address you want to send!'])
 </code>
 </pre>
 

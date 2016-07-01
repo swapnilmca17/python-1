@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #-*-coding: utf-8-*-
+#Python 2.7.10
 
 
 'Email server module'
