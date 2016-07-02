@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #-*-coding: UTF-8-*-
+#Pyhton 3.5
 
 'client server module '
 
@@ -8,9 +9,8 @@ __author__ = 'AJ Kipper'
 import socket
 import select
 import threading
-import sys  
   
-host = "10.2.251.38" 
+host = "120.27.46.91"
 addr=(host,5963)  
   
 def conn():  
@@ -24,22 +24,22 @@ def lis(s):
         r,w,e=select.select(my,[],[])  
         if s in r:  
             try:  
-                print s.recv(1024)  
+                print(s.recv(1024))
             except socket.error:  
-                print 'socket is error'  
+                print('socket is error')
                 exit()  
               
 def talk(s):  
     while True:  
         try:  
-            info=raw_input()  
-        except Exception,e:  
-            print 'can\'t input'  
+            info = raw_input()
+        except:
+            print('can\'t input')
             exit()  
         try:  
             s.send(info)  
-        except Exception,e:  
-            print e  
+        except:
+            print('wrong')
             exit()  
               
 def main():  

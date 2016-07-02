@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-
+#Python 3.5
 'Chat server mocule'
 
 __author__ = 'AJ Kipper'
+
 import socket
 import select  
   
@@ -21,8 +22,8 @@ def who_in_room(w):
           
     return name_list  
   
-def conn():  
-    print 'runing'  
+def conn():
+    print('Runing')
     ss=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     ss.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR,1)
     ss.bind(addr)  
@@ -32,7 +33,7 @@ def conn():
   
 def new_coming(ss):  
     client,add=ss.accept()  
-    print 'welcome %s %s' % (client,add)  
+    print('welcome %s %s' % (client,add))
     wel='''''welcome into the talking room . 
     please decide your name.....'''  
     try:  
@@ -44,8 +45,8 @@ def new_coming(ss):
         nameList="Some people in talking room, these are %s" % (who_in_room(fd_name))  
         client.send(nameList)  
           
-    except Exception,e:  
-        print e  
+    except:
+        print('Wrong')
       
 def server_run():  
   
@@ -67,25 +68,25 @@ def server_run():
                     disconnect=True  
                       
                 if disconnect:  
-                    inputs.remove(temp)  
-                    print data  
+                    inputs.remove(temp)
+                    print(data)
                     for other in inputs:  
                         if other!=ss and other!=temp:  
                             try:  
                                 other.send(data)  
-                            except Exception,e:  
-                                print e                      
+                            except:
+                                print('Wrong')
                     del fd_name[temp]  
                       
-                else:  
-                    print data  
+                else:
+                    print(data)
                       
                     for other in inputs:  
                         if other!=ss and other!=temp:  
                             try:  
                                 other.send(data)  
-                            except Exception,e:  
-                                print e  
+                            except:
+                                print('Wrong')
       
 if __name__=='__main__':  
     server_run()  
