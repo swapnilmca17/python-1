@@ -2,19 +2,22 @@
 
 自己平时用Python写的小项目，各方面都有。
 
+部分项目的编写和设计过程放在Gitbook上面，有兴趣可以访问[Python项目笔记](https://www.gitbook.com/book/ajkipper/python-projects/details)
+
 -------------
 
 **目录**
 
-1. [邮件发送 -- smtp-server](#c1)
+1. [邮件发送脚本 -- smtp-server](#c1)
 2. [Mp3播放控制 -- mp3player](#c2)
 3. [AppStore数据分析 -- appstore-data-analyse](#c3)
 4. [C\S模式聊天室 -- chatting](#c4)
 5. [人人网爬虫 -- renren-crawler](#c5)
+6. [麻瓜编程课程 -- muggle-coding-course](#c6)
 
 -------------------
 
-<h5 id = 'c1'>1. 邮件发送 -- smtp-server</h5>
+<h5 id = 'c1'>1. 邮件发送脚本 -- smtp-server</h5>
 
 **项目说明**
 
@@ -31,6 +34,8 @@
 4. register.py文件完成产生伪随机数和验证功能
 
 直接访问[https://github.com/AJKipper/PythonProject/tree/master/smtp-server](https://github.com/AJKipper/PythonProject/tree/master/smtp-server)
+
+具体的项目讲解已经放在我的Gitbook上，欢迎访问：[项目：邮件发送脚本](https://ajkipper.gitbooks.io/python-projects/content/xiang_mu_ff1a_you_jian_fa_song.html)
 
 -------------------
 
@@ -57,7 +62,7 @@
 这是一个利用Python分析一个json数据，并可视化输出结果的小项目
 数据的来源是一个叫数据堂的网站：[http://www.datatang.com/data/46084](http://www.datatang.com/data/46084)
 
-具体的项目讲解已经发表在我的博客上，欢迎访问：[AJ Kipper(micronoob.com)](http://cn.micronoob.com/python%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/)
+具体的项目讲解已经放在我的Gitbook上，欢迎访问：[项目：AppStore数据分析](https://ajkipper.gitbooks.io/python-projects/content/xiang_mu_ff1a_appstore_shu_ju_fen_xi.html)
 
 直接访问[https://github.com/AJKipper/PythonProject/tree/master/appstore-data-analyse](https://github.com/AJKipper/PythonProject/tree/master/appstore-data-analyse)
 
@@ -84,3 +89,14 @@
 * 所有好友主页的页面
 
 直接访问[https://github.com/AJKipper/PythonProject/tree/master/renren-crawler](https://github.com/AJKipper/PythonProject/tree/master/renren-crawler)
+
+具体的项目讲解已经放在我的Gitbook上，欢迎访问：[项目：人人网爬虫](https://ajkipper.gitbooks.io/python-projects/content/ren_ren_wang_pa_chong.html)
+
+----------
+
+
+<h5 id = 'c6'>6. 麻瓜编程课程 -- muggle-coding-course</h5>
+
+**项目说明**
+
+麻瓜编程是一个在网易云课堂做Python，爬虫，Django等相关编程技术课程的创业团队，而我之前在这个团队里面实习，所以把自己做的一些项目也放在了这里，里面的项目涉及爬虫，Django，MongoDB，Jupyter等，有兴趣可以直接访问[https://github.com/AJKipper/PythonProjects/tree/master/muggle-coding-courses](https://github.com/AJKipper/PythonProjects/tree/master/muggle-coding-courses)
