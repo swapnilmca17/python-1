@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% block content %}
+<a href="http://127.0.0.1:8000/">Return</a>
+<div class="div-post">
+        <section class="post">
+            <header class="post-header">
+                    <p>
+                        {{ post.title }}
+                </p>
+                 <a class="post-date">{{ post.date_time }}</a>
+            </header>
+
+                <!--<div class="post-description">-->
+                    <!--&lt;!&ndash;<p>&ndash;&gt;-->
+                        {{ post.content }}
+                    <!--&lt;!&ndash;</p>&ndash;&gt;-->
+                <!--</div>-->
+        </section>
+</div>
+{% endblock %}
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AJKipper</title>
+</head>
+<style>
+    .background{
+        background-color: whitesmoke;
+    }
+    .head{
+        color: black;
+        font-size: 20px;
+    }
+    .subhead{
+        font-size: 14px;
+    }
+    .post-date{
+        font-style: normal;
+        text-align: left;
+    }
+    .post-title{
+        font-size: 18px;
+    }
+    .div-header{
+        text-align: center;
+    }
+    .div-post{
+        text-align: center;
+    }
+    .footer{
+        font-size: 16px;
+        text-align: center;
+    }
+</style>
+<body class="background">
+<div class="div-header">
+    <h2 class="head">AJKipper</h2>
+    <p>A product manger who will not play music is not a good programmer</p>
+    <a href="http://127.0.0.1:8000/about">About</a>
+    <p></p>
+    <a href="https://github.com/ajkipper">Github - </a>
+    <a href="https://github.com/ajkipper">GitBook - </a>
+    <a href="https://github.com/ajkipper">Facebook - </a>
+    <a href="https://github.com/ajkipper">Page</a>
+</div>
+{% block content %}
+<div class="div-post">
+    {% for post in post_list %}
+        <section class="post">
+            <header class="post-header">
+                <a class="post-date">{{ post.date_time }}</a>
+                <a class="post-title" href={{post.title}}>
+                    {{ post.title }}
+                    </a>
+            </header>
+
+                <!--<div class="post-description">-->
+                    <!--&lt;!&ndash;<p>&ndash;&gt;-->
+                        <!--{{ post.content }}-->
+                    <!--&lt;!&ndash;</p>&ndash;&gt;-->
+                <!--</div>-->
+        </section>
+    {% endfor %}
+</div><!-- /.blog-post -->
+{% endblock %}
+<div class="footer">
+    版权所有
+</div>
+</body>
+</html>
