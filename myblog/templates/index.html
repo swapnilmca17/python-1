@@ -1,71 +1,102 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AJKipper</title>
+    <link rel='shortcut icon' href="{%static 'images/music.ico' %}" type=‘image/x-ico’ />
+    <title>AJ Kipper</title>
 </head>
 <style>
+    A{
+        text-decoration: NONE
+    }
     .background{
-        background-color: whitesmoke;
+        background-color: antiquewhite;
     }
     .head{
         color: black;
+        font-family:"Microsoft Sans Serif";
         font-size: 20px;
+        word-spacing:8px;
+        letter-spacing: 1px;
     }
     .subhead{
         font-size: 14px;
+         font-family: "Courier New";
     }
     .post-date{
+        width: 12px;
         font-style: normal;
+        font-size: 12px;
         text-align: left;
+        font-family: "Courier New";
+        overflow: hidden;
+        text-overflow: hidden;
+        white-space: nowrap;
+        course:hand;
+        color: grey;
     }
     .post-title{
-        font-size: 18px;
+        font-size: 13px;
+        font-family: "Courier New";
+        color: cadetblue;
     }
     .div-header{
+        margin: auto;
+        margin-top: 60px;
+        width: 600px;
         text-align: center;
+        /*background-color: #00aced;*/
     }
     .div-post{
-        text-align: center;
+        margin: auto;
+        margin-top: 40px;
+        width: 400px;
+        text-align: left;
     }
     .footer{
         font-size: 16px;
         text-align: center;
+        margin-top: 300px;
     }
 </style>
 <body class="background">
 <div class="div-header">
-    <h2 class="head">AJKipper</h2>
-    <p>A product manger who will not play music is not a good programmer</p>
-    <a href="http://127.0.0.1:8000/about">About</a>
-    <p></p>
-    <a href="https://github.com/ajkipper">Github - </a>
-    <a href="https://github.com/ajkipper">GitBook - </a>
-    <a href="https://github.com/ajkipper">Facebook - </a>
-    <a href="https://github.com/ajkipper">Page</a>
+    <h2 class="head">AJ Kipper</h2>
+    <p class="subhead">A product manger who will not play music is not a good programmer</p>
+    <a class="post-title" href="http://120.27.46.91:8000/about" >
+        About
+        <!--<img style="width: 22px" src="{% static 'images/about.png' %}">-->
+    </a>&nbsp;&nbsp;&nbsp;
+    <a class="post-title" href="https://github.com/ajkipper" target="_blank">
+        Github
+        <!--<img style="width: 21px" src="{% static 'images/github-logo.png' %}">-->
+    </a>&nbsp;&nbsp;&nbsp;
+    <a class="post-title" href="https://www.facebook.com/profile.php?id=100009684668877" target="_blank">
+       Facebook
+        <!--<img style="width: 20px" src="{% static 'images/facebook.png' %}">-->
+    </a>&nbsp;&nbsp;&nbsp;
+    <a class="post-title" href="https://ajkipper.github.io" target="_blank">
+       Profile
+        <!--<img style="width: 20px" src="{% static 'images/project.png' %}">-->
+    </a>
+    <hr style="height:1px;border:none;border-top:1px dashed black;" />
+    <h4 class="head" style="font-size: 16px">Posts</h4>
 </div>
 {% block content %}
 <div class="div-post">
     {% for post in post_list %}
-        <section class="post">
             <header class="post-header">
-                <a class="post-date">{{ post.date_time }}</a>
+                <a class="post-date">{{ post.date_time }}>&nbsp;&nbsp;&nbsp;</a>
                 <a class="post-title" href={{post.title}}>
                     {{ post.title }}
                     </a>
             </header>
-
-                <!--<div class="post-description">-->
-                    <!--&lt;!&ndash;<p>&ndash;&gt;-->
-                        <!--{{ post.content }}-->
-                    <!--&lt;!&ndash;</p>&ndash;&gt;-->
-                <!--</div>-->
-        </section>
     {% endfor %}
-</div><!-- /.blog-post -->
+</div>
 {% endblock %}
 <div class="footer">
-    版权所有
+    <p class="subhead">© AJ Kipper 2016</p>
 </div>
 </body>
 </html>

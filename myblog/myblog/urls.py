@@ -9,6 +9,5 @@ urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', 'article.views.index'),
     url(r'^about', 'article.views.about'),
-    # url(r'^(?P<my_args>\d+)/$', 'article.views.detail', name='detail'),
     url(r'^(?P<post_title>.*?)/$', 'article.views.post_detail', name='post_detail'),
 )

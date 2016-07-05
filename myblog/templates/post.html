@@ -1,16 +1,83 @@
+{% load static %}
+{% load markdown_deux_tags %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <link rel='shortcut icon' href="{%static 'images/music.ico' %}" type=‘image/x-ico’ />
+    <title>{{post.title}}</title>
 </head>
-<body>
+<style>
+    A{
+        text-decoration: NONE
+    }
+    .background{
+        background-color: antiquewhite;
+    }
+    .head{
+        color: black;
+        font-family:"Microsoft Sans Serif";
+        font-size: 20px;
+        word-spacing:8px;
+        letter-spacing: 1px;
+    }
+    .subhead{
+        font-size: 14px;
+         font-family: "Courier New";
+    }
+    .content{
+        font-size: 14px;
+         font-family: "Courier New";
+    }
+    .post-date{
+        width: 88px;
+        font-style: normal;
+        font-size: 12px;
+        text-align: left;
+        font-family: "Courier New";
+        overflow: hidden;
+        text-overflow: hidden;
+        white-space: nowrap;
+        course:hand;
+        color: grey;
+    }
+    .post-title{
+        font-family:"Microsoft Sans Serif";
+        font-size: 18px;
+        word-spacing:8px;
+        letter-spacing: 1px;
+        color: cadetblue;
+    }
+    .div-header{
+        margin: auto;
+        margin-top: 60px;
+        width: 600px;
+        text-align: center;
+        /*background-color: #00aced;*/
+    }
+    .div-post{
+        margin: auto;
+        margin-top: 60px;
+        width: 400px;
+        text-align: center;
+    }
+    .div-content{
+        margin: auto;
+        margin-top: 40px;
+        width: 800px;
+        text-align: left;
+    }
+    .footer{
+        font-size: 16px;
+        text-align: center;
+        margin-top: 200px;
+    }
+</style>
+<body class="background">
 {% block content %}
-<a href="http://127.0.0.1:8000/">Return</a>
 <div class="div-post">
-        <section class="post">
             <header class="post-header">
-                    <p>
+                    <p class="post-title">
                         {{ post.title }}
                 </p>
                  <a class="post-date">{{ post.date_time }}</a>
@@ -18,11 +85,24 @@
 
                 <!--<div class="post-description">-->
                     <!--&lt;!&ndash;<p>&ndash;&gt;-->
-                        {{ post.content }}
+
                     <!--&lt;!&ndash;</p>&ndash;&gt;-->
-                <!--</div>-->
-        </section>
+               <!--</div>-->
+</div>
+<div class="div-content">
+    <a class="post-title" href="http://120.27.46.91:8000/" style="font-size: 15px;">
+        Home
+        <!--<img style="width: 15px" src="{% static 'images/home-logo.png' %}">-->
+    </a>
+    <hr style="height:1px;border:none;border-top:1px dashed black;" />
+    <p class="content">
+    {{ post.content|markdown:"article"}}
+    </p>
+
 </div>
 {% endblock %}
+<div class="footer">
+    <p class="subhead">© AJ Kipper 2016</p>
+</div>
 </body>
 </html>

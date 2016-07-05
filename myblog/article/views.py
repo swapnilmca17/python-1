@@ -16,11 +16,5 @@ def post_detail(request, post_title):
             return render(request, 'post.html', {'post': post})
         else:
             pass
-
-
-    # str = ("title = %s, category = %s, date_time = %s, content = %s"
-    #     % (post.title, post.category, post.date_time, post.content))
-    # return HttpResponse(str)
-
 def about(request):
     return render(request,'about.html')

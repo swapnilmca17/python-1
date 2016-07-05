@@ -1,23 +1,113 @@
-<!--在test.html文件夹下添加-->
+{% load static %}
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>About</title>
-        <style>
-            body {
-               background-color: antiquewhite;
-            }
-            em {
-                color: LightSeaGreen;
-            }
-        </style>
-    </head>
-    <body>
-        <h1>About</h1>
-        <p>这个站点由Django框架+</p>
-        <li>这个世界</li>
-    <a href="http://127.0.0.1:8000/">Return</a>
-    <code>
-    </code>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel='shortcut icon' href="{%static 'images/music.ico' %}" type=‘image/x-ico’ />
+    <title>About</title>
+</head>
+<style>
+    A{
+        text-decoration: NONE
+    }
+    .background{
+        background-color: antiquewhite;
+    }
+    .head{
+        color: black;
+        font-family:"Microsoft Sans Serif";
+        font-size: 20px;
+        word-spacing:8px;
+        letter-spacing: 1px;
+    }
+    .subhead{
+        font-size: 14px;
+         font-family: "Courier New";
+    }
+    .post-date{
+        width: 88px;
+        font-style: normal;
+        font-size: 12px;
+        text-align: left;
+        font-family: "Courier New";
+        overflow: hidden;
+        text-overflow: hidden;
+        white-space: nowrap;
+        course:hand;
+    }
+    .post-title{
+        font-size: 13px;
+        font-family: "Courier New";
+        color: cadetblue;
+    }
+    .div-header{
+        margin: auto;
+        margin-top: 60px;
+        width: 600px;
+        text-align: center;
+        /*background-color: #00aced;*/
+    }
+    .div-recode{
+        margin: auto;
+        margin-top: 40px;
+        width: 400px;
+        height: 120px;
+        text-align: center;
+        border-color: black;
+        border-width: 2px;
+    }
+    .recode-head{
+        font-size: 12px;
+        font-family: "Courier New";
+    }
+    .recode-content{
+        font-size: 12px;
+        font-family: "Courier New";
+        text-align: center;
+    }
+    .footer{
+        font-size: 16px;
+        text-align: center;
+        margin-top: 200px;
+    }
+</style>
+<body class="background">
+<div class="div-header">
+    <h2 class="head">About</h2>
+    <p class="subhead">About this website</p>
+    <a href="http://120.27.46.91:8000/" >
+        <p class="post-title">Home</p>
+        <!--<img style="width: 21px" src="{% static 'images/home-logo.png' %}">-->
+    </a>
+    <!--<p></p>-->
+    <!--<a href="https://github.com/ajkipper" target="_blank">-->
+        <!--<img style="width: 25px" src="{% static 'images/github-logo.png' %}">-->
+    <!--</a>&nbsp;&nbsp;&nbsp;-->
+    <!--<a href="https://gitbook.com/ajkipper" target="_blank">-->
+        <!--<img style="width: 23px" src="{% static 'images/facebook.png' %}">-->
+    <!--</a>-->
+    <!--&lt;!&ndash;<a href="https://gitbook.com/ajkipper" target="_blank">&ndash;&gt;-->
+        <!--&lt;!&ndash;<img style="width: 24px" src="{% static 'images/resume.png' %}">&ndash;&gt;-->
+    <!--&lt;!&ndash;</a>&ndash;&gt;-->
+    <hr style="height:1px;border:none;border-top:1px dashed black;" />
+</div>
+<div class="div-recode">
+    <p class="recode-head" style="font-size: 16px">关于博主</p>
+    <p class="recode-head" style="color: dimgrey">不玩音乐的产品经理不是一个好程序员</p>
+    <p class="recode-content">网络ID :<strong> AJ Kipper </strong></p>
+    <p class="recode-content">93年小伙砸,爱编程爱音乐爱运动爱美女</p>
+    <p class="recode-content">更多信息前往 -> <a class="post-title" href="https://ajkipper.github.io" target="_blank">https://ajkipper.github.io</a></p>
+    </div>
+<div class="div-recode">
+    <hr style="height:1px;border:none;border-top:1px dashed black;" />
+    <p class="recode-head" style="font-size: 16px">关于博客</p>
+    <p class="recode-head" style="color: dimgrey">分享是一件很美好的事情</p>
+    <p class="recode-content">本博客由 <strong>Django</strong> (version:1.8.2)框架搭建,数据库使用默认的 <strong>Sqlite</strong>,前端未使用框架,毕竟也是该自己造一下前端的轮子了.</p>
+    <p class="recode-content">运行在阿里云ECS服务器,系统是CentOS1.6.6,部署使用 <strong>Negix + Uwsgi + Django, </strong>文章排版使用 <strong>markdown_deux</strong> 插件</p>
+    <p class="recode-content">功能暂时只有文章列表页,文章详情页和几个静态页面,评论和全文搜索之类的功能后期再说,有时间我也会把这个过程写成一个系列文章.</p>
+    </div>
+<div class="footer">
+    <p class="subhead">© AJ Kipper 2016</p>
+</div>
+</body>
 </html>
