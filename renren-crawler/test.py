@@ -4,39 +4,33 @@
 
 __author__ = 'AJ Kipper'
 
-# from bs4 import BeautifulSoup as bs
-#
-# with open('profile/206.html','r',encoding= 'utf-8') as webdata:
-# 	soup = bs(webdata,'lxml')
-# 	friends_num = soup.select('body > div.ssec > div > table > tr > td > span')[0].get_text()
-# 	views_num = soup.select('body > div.ssec > div > span')[0].get_text()
-# 	name = soup.select('body > div.ssec > p > b:nth-of-type(1)')[0].get_text()
-# 	level = soup.select('body > div.ssec > p > b:nth-of-type(2)')[0].get_text()
-# 	recent_time = soup.select('body > div.list > div:nth-of-type(2) > p.gs')[0].get_text()
-# 	print(friends_num)
-# 	print(views_num)
-# 	print(name)
-# 	print(level)
-# 	print(recent_time)
+from bs4 import BeautifulSoup as bs
+import pymongo
 
-from mdb import Engine
+client = pymongo.MongoClient("localhost", 27017)
 
-engine = Engine()
+def data_insert(num):
+	file_path = 'profile/' + str(num) + '.html'
+	with open(file_path, 'r', encoding='utf-8') as webdata:
+		soup = bs(webdata, 'lxml')
+		try:
+			friends_num = soup.select('body > div.ssec > div > table > tr > td > span')[0].get_text()
+			views_num = soup.select('body > div.ssec > div > span')[0].get_text()
+			name = soup.select('body > div.ssec > p > b:nth-of-type(1)')[0].get_text()
+			level = soup.select('body > div.ssec > p > b:nth-of-type(2)')[0].get_text()
+			recent_time = soup.select('body > div.list > div:nth-of-type(2) > p.gs')[0].get_text()
+			data = {
+				'friends': int(str(friends_num)[1:len(friends_num) - 1]),
+				'views': int(str(views_num)[1:len(views_num) - 1]),
+				'name': name,
+				'level': level,
+				'recent_time': str(recent_time)[0:10],
+			}
+			db = client.data_mining
+			db.renren_data.insert(data)
+		except:
+			pass
 
-dict_data = {
-	'Name' : '',
-	'Friends' : 0,
-	'Views' : 0,
-}
+for i in range(2,208):
+	data_insert(i)
 
-result = []
-
-data = engine.select('select * from profiles_info')
-for j in range(len(data)):
-	result.append({'Name' : data[j][1],'Gender' : data[j][2],'Visits' : data[j][3],'Level' : data[j][3],})
-
-
-for i in result:
-	print(i['Name'])
-	print(i['Gender'])
-	print(i['Visits'])
