@@ -14,6 +14,7 @@
 4. [C\S模式聊天室 -- chatting](#c4)
 5. [人人网爬虫 -- renren-crawler](#c5)
 6. [麻瓜编程课程 -- muggle-coding-course](#c6)
+7. [Django搭建个人博客 -- Build a personal blog by Django](#c7)
 
 -------------------
 
@@ -100,3 +101,14 @@
 **项目说明**
 
 麻瓜编程是一个在网易云课堂做Python，爬虫，Django等相关编程技术课程的创业团队，而我之前在这个团队里面实习，所以把自己做的一些项目也放在了这里，里面的项目涉及爬虫，Django，MongoDB，Jupyter等，有兴趣可以直接访问[https://github.com/AJKipper/PythonProjects/tree/master/muggle-coding-courses](https://github.com/AJKipper/PythonProjects/tree/master/muggle-coding-courses)
+
+
+----
+<h5 id = 'c7'>7. Django搭建个人博客 -- Build a personal blog by Django</h5>
+
+**项目说明**
+
+1. 项目使用Django框架，数据库使用Sqlite，前端由自己编写，略微简洁；文章排版使用了Markdown_deux插件。
+2. 已经部署在阿里云ESC服务器上面，部署方式为Django+uwsgi+nginx。
+3. 这个项目出于兴趣而做，时间为一个星期。过程中掌握了使用Django快速开发博客的流程，以及Django框架在服务器部署的基本技术。
+4. 网站站点展示可以访问[http://120.27.46.91:8000/](http://120.27.46.91:8000/)(暂时没有做域名解析)。
