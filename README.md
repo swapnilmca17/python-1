@@ -11,7 +11,6 @@
 1. [邮件发送脚本 -- smtp-server](#c1)
 2. [Mp3播放控制 -- mp3player](#c2)
 3. [AppStore数据分析 -- appstore-data-analyse](#c3)
-4. [C\S模式聊天室 -- chatting](#c4)
 5. [人人网爬虫 -- renren-crawler](#c5)
 6. [麻瓜编程课程 -- muggle-coding-course](#c6)
 7. [Django搭建个人博客 -- Build a personal blog by Django](#c7)
@@ -66,14 +65,6 @@
 具体的项目讲解已经放在我的Gitbook上，欢迎访问：[项目：AppStore数据分析](https://ajkipper.gitbooks.io/python-projects/content/xiang_mu_ff1a_appstore_shu_ju_fen_xi.html)
 
 直接访问[https://github.com/AJKipper/PythonProject/tree/master/appstore-data-analyse](https://github.com/AJKipper/PythonProject/tree/master/appstore-data-analyse)
-
--------------------
-
-<h5 id = 'c4'>4. C\S模式聊天室 -- chatting</h5>
-
-一个基于C/S模式的聊天客户端。
-
-直接访问[https://github.com/AJKipper/PythonProject/tree/master/chatting](https://github.com/AJKipper/PythonProject/tree/master/chatting)
 
 -------------------
 
