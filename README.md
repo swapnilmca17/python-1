@@ -11,9 +11,9 @@
 1. [邮件发送脚本 -- smtp-server](#c1)
 2. [Mp3播放控制 -- mp3player](#c2)
 3. [AppStore数据分析 -- appstore-data-analyse](#c3)
-5. [人人网爬虫 -- renren-crawler](#c5)
-6. [麻瓜编程课程 -- muggle-coding-course](#c6)
-7. [Django搭建个人博客 -- Build a personal blog by Django](#c7)
+4. [人人网爬虫 -- renren-crawler](#c4)
+5. [麻瓜编程课程 -- muggle-coding-course](#c5)
+6. [Django搭建个人博客 -- Build a personal blog by Django](#c6)
 
 -------------------
 
@@ -68,7 +68,7 @@
 
 -------------------
 
-<h5 id = 'c5'>5. 人人网爬虫 -- renren-crawler</h5>
+<h5 id = 'c4'>4. 人人网爬虫 -- renren-crawler</h5>
 
 人人网爬虫项目。
 
@@ -87,7 +87,7 @@
 ----------
 
 
-<h5 id = 'c6'>6. 麻瓜编程课程 -- muggle-coding-course</h5>
+<h5 id = 'c5'>5. 麻瓜编程课程 -- muggle-coding-course</h5>
 
 **项目说明**
 
@@ -95,7 +95,7 @@
 
 
 ----
-<h5 id = 'c7'>7. Django搭建个人博客 -- Build a personal blog by Django</h5>
+<h5 id = 'c6'>6. Django搭建个人博客 -- Build a personal blog by Django</h5>
 
 **项目说明**
 
