@@ -119,4 +119,4 @@
 
 针对这个项目的要求，一周之内我写了2个方案，虽然实现了功能，但其实在速度方面我都不太满意。。。
 
-有兴趣可以直接访问[https://github.com/AJKipper/python/tree/master/sudo-written-test](https://github.com/AJKipper/python/tree/master/sudo-written-test)
+有兴趣可以直接访问[https://github.com/AJKipper/python/tree/master/sohu-written-test](https://github.com/AJKipper/python/tree/master/sohu-written-test)

@@ -74,10 +74,10 @@
 根据以上，我设计出两个方案：
 
 ##### 2.2.1 方案一
-![方案1](https://github.com/AJKipper/python/tree/master/sudo-written-test/pics/case1.png)
+![方案1](https://github.com/AJKipper/python/tree/master/sohu-written-test/pics/case1.png)
 
 ##### 2.2.2 方案二
-![方案2](https://github.com/AJKipper/python/tree/master/sudo-written-test/pics/case2.png)
+![方案2](https://github.com/AJKipper/python/tree/master/sohu-written-test/pics/case2.png)
 
 
 ### 3. 项目总结
